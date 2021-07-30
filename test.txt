@@ -1,0 +1,6 @@
+hi
+hellozz
+zz
+:q!
+:wq
+
